@@ -1,6 +1,6 @@
 # 📊 Projeto de ETL em arquivos CSV
 
-Pipeline de **ETL (Extract, Transform, Load)** que consolida relatórios mensais de vendas em CSV, limpa e enriquece os dados com `pandas`, e carrega o resultado em um banco de dados **SQLite** via `SQLAlchemy` — pronto para consultas SQL, dashboards ou análises futuras.
+Automação em **ETL (Extract, Transform, Load)** que consolida relatórios mensais de vendas em CSV e carrega o resultado em um banco de dados **SQLite** via `SQLAlchemy`.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
@@ -8,7 +8,7 @@ Pipeline de **ETL (Extract, Transform, Load)** que consolida relatórios mensais
 
 ## 🎯 Objetivo do projeto
 
-Simular um cenário comum no dia a dia de dados: uma empresa recebe **relatórios de vendas mensais em CSV**, exportados por sistemas diferentes (ou por pessoas diferentes), cheios de pequenas inconsistências — nulos, duplicatas, texto com espaços/caixa variando, preços em formatos diferentes. Este projeto automatiza:
+Simular um cenário comum no dia a dia de dados onde uma empresa recebe **relatórios de vendas mensais em CSV**, contendo pequenas inconsistências e precisa automatizar o processo de:
 
 1. **Extract** — ler e unificar todos os arquivos de uma pasta;
 2. **Transform** — limpar, padronizar e enriquecer os dados;
