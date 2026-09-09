@@ -1,0 +1,20 @@
+ID_Pedido,Data,Cliente,Categoria,Produto,Quantidade,Preco_Unitario,Regiao
+2000,2024-02-04,Cliente 003, Alimentos ,Barra de Cereal,1.0,"6,72",Norte
+2001,2024-02-03,Cliente 002,móveis,Cadeira,2.0,459.76,Nordeste
+2002,2024-02-08,Cliente 016,eletrônicos,Caixa de Som,,"R$ 94,87",Sul
+2003,2024-02-07,Cliente 022,Vestuário,Boné,6.0,"R$ 33,96",Centro-Oeste
+2004,2024-02-02,Cliente 021,VESTUÁRIO,Jaqueta,1.0,"R$ 88,97",Nordeste
+2005,2024-02-07,Cliente 015,eletrônicos,Mouse,7.0,"75,89",Nordeste
+2006,2024-02-28,Cliente 015,VESTUÁRIO ,Camiseta,2.0,112.71,Norte
+2007,2024-02-25,Cliente 006,Eletrônicos,Fone de Ouvido,8.0,"R$ 217,47",Sul
+2008,2024-02-06,Cliente 013, Vestuário ,Camiseta,8.0, 61.00 ,Centro-Oeste
+2009,2024-02-23,Cliente 007, Alimentos ,Água Mineral,4.0,10.30,Norte
+2010,2024-02-24,Cliente 002,ALIMENTOS ,Café,8.0,"7,70",Sudeste
+2011,2024-02-28,Cliente 020,ALIMENTOS,Café,4.0,"R$ 5,79",Sudeste
+2012,2024-02-19,Cliente 020,ALIMENTOS,Café,7.0, 11.92 ,Nordeste
+2013,2024-02-08,Cliente 005, Móveis ,Estante,8.0,,Sudeste
+2014,2024-02-20,Cliente 004,ELETRÔNICOS,Carregador,4.0, 249.67 ,Sul
+2015,2024-02-08,Cliente 006,Papelaria,Caderno,5.0,10.50,Norte
+2016,2024-02-05,Cliente 029,PAPELARIA,Caderno,3.0, 8.08 ,Nordeste
+2017,2024-02-23,Cliente 022, Alimentos ,Café,8.0, 8.14 ,Sudeste
+2004,2024-02-02,Cliente 021,VESTUÁRIO,Jaqueta,1.0,"R$ 88,97",Nordeste

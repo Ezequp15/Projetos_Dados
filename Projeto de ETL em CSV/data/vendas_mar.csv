@@ -1,0 +1,16 @@
+ID_Pedido,Data,Cliente,Categoria,Produto,Quantidade,Preco_Unitario,Regiao
+3000,2024-03-01,Cliente 005, Papelaria ,Caderno,3.0,"R$ 9,67",Norte
+3001,2024-03-01,Cliente 029,vestuário,Jaqueta,1.0, 35.63 ,Norte
+3002,2024-03-14,Cliente 010, Alimentos ,Café,1.0, 4.91 ,Sul
+3003,2024-03-12,Cliente 029,Móveis,Cadeira,3.0,"494,46",Sul
+3004,2024-03-01,Cliente 030, Móveis ,Luminária,7.0,"206,09",Nordeste
+3005,2024-03-13,Cliente 028,Móveis,Cadeira,4.0,"538,64",Centro-Oeste
+3006,2024-03-27,Cliente 008,papelaria,Agenda,1.0,"20,29",Centro-Oeste
+3007,2024-03-28,Cliente 025, Papelaria ,Agenda,,"R$ 3,60",Norte
+3008,2024-03-04,Cliente 009,papelaria,Caderno,5.0,22.17,Sudeste
+3009,2024-03-12,Cliente 011,Alimentos,Barra de Cereal,2.0,"R$ 13,93",Norte
+3010,2024-03-02,Cliente 001,MÓVEIS ,Estante,4.0, 460.22 ,Centro-Oeste
+3011,2024-03-20,Cliente 028,ELETRÔNICOS,Teclado,5.0, 102.49 ,Centro-Oeste
+3012,2024-03-23,Cliente 005,papelaria,Pasta,7.0,,Sul
+3013,2024-03-10,Cliente 027,ALIMENTOS,Água Mineral,5.0, 9.09 ,Sul
+3014,2024-03-20,Cliente 015,Vestuário,Jaqueta,8.0,"87,20",Norte

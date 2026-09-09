@@ -1,0 +1,24 @@
+ID_Pedido,Data,Cliente,Categoria,Produto,Quantidade,Preco_Unitario,Regiao
+5000,2024-05-24,Cliente 025,alimentos,Água Mineral,5.0,13.78,Norte
+5001,2024-05-19,Cliente 013,Eletrônicos,Teclado,4.0,180.63,Norte
+5002,2024-05-23,Cliente 028,MÓVEIS ,Cadeira,2.0,490.79,Nordeste
+5003,2024-05-22,Cliente 017, Alimentos ,Barra de Cereal,1.0,"R$ 8,56",Centro-Oeste
+5004,2024-05-12,Cliente 027,Eletrônicos,Carregador,3.0,"R$ 171,65",Sul
+5005,2024-05-09,Cliente 030,ALIMENTOS ,Água Mineral,8.0,"R$ 12,24",Centro-Oeste
+5006,2024-05-11,Cliente 027,ALIMENTOS,Barra de Cereal,5.0,"R$ 15,78",Sul
+5007,2024-05-20,Cliente 011,VESTUÁRIO,Jaqueta,8.0, 88.48 ,Sul
+5008,2024-05-12,Cliente 011, Vestuário ,Camiseta,5.0,100.79,Norte
+5009,2024-05-08,Cliente 016,MÓVEIS ,Cadeira,4.0,"R$ 465,64",Centro-Oeste
+5010,2024-05-03,Cliente 013,vestuário,Camiseta,5.0, 52.95 ,Centro-Oeste
+5011,2024-05-12,Cliente 024,ALIMENTOS ,Água Mineral,6.0, 9.38 ,Centro-Oeste
+5012,2024-05-09,Cliente 024,papelaria,Agenda,6.0,7.30,Norte
+5013,2024-05-07,Cliente 009,MÓVEIS ,Mesa,,474.53,Sul
+5014,2024-05-12,Cliente 001,PAPELARIA ,Caneta,3.0,,Sudeste
+5015,2024-05-10,Cliente 005,Eletrônicos,Caixa de Som,2.0,184.94,Norte
+5016,2024-05-16,Cliente 006,PAPELARIA,Pasta,5.0,"R$ 12,13",Sudeste
+5017,2024-05-16,Cliente 021,ELETRÔNICOS,Carregador,3.0,"50,93",Norte
+5018,2024-05-08,Cliente 025,Papelaria,Caderno,4.0,"R$ 4,72",Centro-Oeste
+5019,2024-05-28,Cliente 014, Vestuário ,Boné,1.0,,Sul
+5020,2024-05-22,Cliente 008,móveis,Estante,2.0,"158,97",Sudeste
+5001,2024-05-19,Cliente 013,Eletrônicos,Teclado,4.0,180.63,Norte
+5009,2024-05-08,Cliente 016,MÓVEIS ,Cadeira,4.0,"R$ 465,64",Centro-Oeste

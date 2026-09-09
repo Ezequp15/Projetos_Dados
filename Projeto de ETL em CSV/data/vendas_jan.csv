@@ -1,0 +1,23 @@
+ID_Pedido,Data,Cliente,Categoria,Produto,Quantidade,Preco_Unitario,Regiao
+1000,2024-01-24,Cliente 008,eletrônicos,Fone de Ouvido,2.0,94.13,Norte
+1001,2024-01-01,Cliente 008,VESTUÁRIO ,Camiseta,1.0,"33,90",Norte
+1002,2024-01-15,Cliente 026,VESTUÁRIO,Camiseta,3.0,"R$ 80,98",Nordeste
+1003,2024-01-07,Cliente 011,PAPELARIA,Caneta,2.0,"R$ 24,02",Sudeste
+1004,2024-01-20,Cliente 002,Papelaria,Agenda,2.0,"R$ 8,08",Sudeste
+1005,2024-01-27,Cliente 029, Alimentos ,Barra de Cereal,4.0,12.43,Sudeste
+1006,2024-01-03,Cliente 028,MÓVEIS,Estante,7.0, 530.55 ,Centro-Oeste
+1007,2024-01-12,Cliente 022, Papelaria ,Caneta,2.0,"10,17",Norte
+1008,2024-01-15,Cliente 030,MÓVEIS ,Mesa,4.0, 302.14 ,Sudeste
+1009,2024-01-26,Cliente 009,MÓVEIS,Cadeira,4.0, 271.42 ,Sul
+1010,2024-01-29,Cliente 015,vestuário,Boné,5.0,"111,88",Sul
+1011,2024-01-09,Cliente 014,ALIMENTOS ,Água Mineral,7.0,,Sul
+1012,2024-01-03,Cliente 028,MÓVEIS,Luminária,,"482,78",Centro-Oeste
+1013,2024-01-13,Cliente 015,ALIMENTOS ,Café,5.0,8.72,Sudeste
+1014,2024-01-25,Cliente 004, Alimentos ,Barra de Cereal,7.0,,Centro-Oeste
+1015,2024-01-17,Cliente 017,ELETRÔNICOS,Teclado,5.0,"198,82",Sul
+1016,2024-01-18,Cliente 030,PAPELARIA ,Caneta,1.0, 23.93 ,Centro-Oeste
+1017,2024-01-30,Cliente 027, Eletrônicos ,Fone de Ouvido,4.0,113.04,Sul
+1018,2024-01-03,Cliente 027,ALIMENTOS,Café,3.0,"13,98",Centro-Oeste
+1019,2024-01-09,Cliente 020,Alimentos,Café,4.0,"10,92",Nordeste
+1002,2024-01-15,Cliente 026,VESTUÁRIO,Camiseta,3.0,"R$ 80,98",Nordeste
+1007,2024-01-12,Cliente 022, Papelaria ,Caneta,2.0,"10,17",Norte

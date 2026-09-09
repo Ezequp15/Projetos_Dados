@@ -1,0 +1,17 @@
+ID_Pedido,Data,Cliente,Categoria,Produto,Quantidade,Preco_Unitario,Regiao
+6000,2024-06-02,Cliente 023, Vestuário ,Boné,8.0,46.99,Sul
+6001,2024-06-14,Cliente 008,papelaria,Caneta,5.0,"4,64",Sudeste
+6002,2024-06-26,Cliente 024,ELETRÔNICOS ,Mouse,5.0,"R$ 101,14",Sudeste
+6003,2024-06-10,Cliente 009,VESTUÁRIO ,Jaqueta,8.0,"R$ 91,47",Sudeste
+6004,2024-06-29,Cliente 011,ALIMENTOS ,Café,5.0,,Sudeste
+6005,2024-06-25,Cliente 009,MÓVEIS ,Cadeira,1.0,"442,70",Centro-Oeste
+6006,2024-06-15,Cliente 006,ALIMENTOS ,Água Mineral,7.0,"R$ 16,74",Sudeste
+6007,2024-06-14,Cliente 022,VESTUÁRIO,Boné,3.0, 56.66 ,Centro-Oeste
+6008,2024-06-22,Cliente 027,VESTUÁRIO ,Boné,1.0,"R$ 114,79",Sudeste
+6009,2024-06-11,Cliente 025,Papelaria,Agenda,1.0,"R$ 4,67",Centro-Oeste
+6010,2024-06-17,Cliente 025,Eletrônicos,Mouse,8.0,112.78,Sul
+6011,2024-06-30,Cliente 029,Papelaria,Caneta,2.0,8.62,Norte
+6012,2024-06-10,Cliente 018,Móveis,Mesa,2.0,"384,40",Sudeste
+6013,2024-06-21,Cliente 016, Vestuário ,Camiseta,5.0,"R$ 104,05",Centro-Oeste
+6014,2024-06-15,Cliente 013,vestuário,Camiseta,3.0,77.37,Nordeste
+6015,2024-06-30,Cliente 009,VESTUÁRIO,Boné,, 99.83 ,Norte
