@@ -5,7 +5,6 @@ Pipeline de **ETL (Extract, Transform, Load)** que consolida relatórios mensais
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.x-CC2927)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 🎯 Objetivo do projeto
 
