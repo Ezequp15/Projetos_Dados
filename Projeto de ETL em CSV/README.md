@@ -7,8 +7,6 @@ Pipeline de **ETL (Extract, Transform, Load)** que consolida relatórios mensais
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.x-CC2927)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![Receita por categoria](assets/receita_por_categoria.png)
-
 ## 🎯 Objetivo do projeto
 
 Simular um cenário comum no dia a dia de dados: uma empresa recebe **relatórios de vendas mensais em CSV**, exportados por sistemas diferentes (ou por pessoas diferentes), cheios de pequenas inconsistências — nulos, duplicatas, texto com espaços/caixa variando, preços em formatos diferentes. Este projeto automatiza:
