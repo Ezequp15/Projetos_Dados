@@ -1,4 +1,4 @@
-# 📊 ETL de Vendas com Pandas + SQLAlchemy
+# 📊 Projeto de ETL em arquivos CSV
 
 ## 🎯 Objetivo do projeto
 
