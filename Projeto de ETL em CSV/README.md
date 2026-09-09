@@ -50,8 +50,9 @@ Ao final, você terá:
 [LOAD] Verificação pós-carga: 50 linhas na tabela
 
 Pipeline ETL concluído com sucesso.
+```
 
-## 🛠️ Tecnologias Utilziadas
+## 🛠️ Tecnologias Utilizadas
 
 - [pandas](https://pandas.pydata.org/) — leitura, limpeza e transformação dos dados
 - [SQLAlchemy](https://www.sqlalchemy.org/) — conexão e carga no banco SQLite
