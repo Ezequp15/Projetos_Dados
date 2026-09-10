@@ -11,8 +11,8 @@ Automação em **ETL (Extract, Transform, Load)** que consolida relatórios mens
 Simular um cenário comum no dia a dia de dados onde uma empresa recebe **relatórios de vendas mensais em CSV**, contendo pequenas inconsistências e precisa automatizar o processo de:
 
 1. **Extract** — ler e unificar todos os arquivos de uma pasta;
-2. **Transform** — limpar, padronizar e enriquecer os dados;
-3. **Load** — persistir o resultado em um banco de dados relacional.
+2. **Transform** — limpa, e padroniza os dados;
+3. **Load** — coloca o resultado em um banco de dados relacional.
 
 ## 🛠️ Tecnologias Utilizadas
 
